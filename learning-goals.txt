@@ -1,0 +1,6 @@
+My learning goals
+1. Learn Java programming
+2. Understand Git and GitHub
+3. Build my first software project
+4. Learn web development
+5. Become a skilled software developer
