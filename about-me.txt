@@ -2,3 +2,10 @@ Hello! My name is Hamdi.
 I am an Information Technology student from JKUAT learning programming and software development.
 This is my first GitHub repository.
 My goal is to become skilled in this particular field and become the best version of me in coming times.
+
+What i am currently learning:
+-Java programming
+-Git and GitHub
+-Web Development
+-Database Management
+My goal is to build a real-world software projects and arrow into a skilled software developer.
