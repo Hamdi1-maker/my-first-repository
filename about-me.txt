@@ -1,0 +1,4 @@
+Hello! My name is Hamdi.
+I am an Information Technology student from JKUAT learning programming and software development.
+This is my first GitHub repository.
+My goal is to become skilled in this particular field and become the best version of me in coming times.
