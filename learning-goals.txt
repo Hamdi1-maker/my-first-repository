@@ -4,3 +4,5 @@ My learning goals
 3. Build my first software project
 4. Learn web development
 5. Become a skilled software developer
+
+I am learning how to use GitHub branches and commits
